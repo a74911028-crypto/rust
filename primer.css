@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+}
+p {
+    border-bottom: 10px double rgb(0, 0, 0);
+    margin: 10px;
+    
+}
+ main img {
+    border-left: 6px darkblue dotted;
+    margin: 20px;
+    
+}
+main p {
+    border:  3px darkblue dashed ;
+    border-radius:19px ;
+    padding: 5px;
+}
+nav {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid black;
+    margin: 10px;
+} 
+h1 {
+    text-align: center;
+}
+header img{
+    width: 100%;
+}
+footer p {
+    background-color: black;
+    color:aliceblue;
+}
